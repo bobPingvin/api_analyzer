@@ -1,0 +1,14 @@
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+api_analyzer
+*.o
+*.a
+*.so
+*.log
+api_analysis_log.txt
+apu_documentation.*
+api_report.txt
+.vscode/*.log
